@@ -1,0 +1,4 @@
+func main() {
+	var start = clock();
+	print start;
+}

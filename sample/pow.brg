@@ -1,0 +1,11 @@
+func pow(n, exp) {
+	var total = 1;
+	for (i inrange 0,exp) {
+		total = total*n;
+	}
+	print total;
+}
+
+func main() {
+	pow(3,4);
+}

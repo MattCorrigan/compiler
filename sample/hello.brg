@@ -1,0 +1,9 @@
+func hello() {
+	print "hello";
+}
+
+func main() {
+	for (i inrange 0, 5) {
+		hello();
+	}
+}
